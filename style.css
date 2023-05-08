@@ -8,7 +8,7 @@
   body {
     width: 100%;
     height: 100%;
-    background-color:radial-gradient(rgba(150, 96, 207, 0.662), rgba(86, 138, 216, 0.738)); 
+    background-color:RGBA( 186, 85, 211, 1 );
   }
   .ToDoSection{
     margin:30px;
